@@ -7,11 +7,13 @@ Fast4DReg is a Fiji plugin that can quickly correct axial and lateral drift in 3
 
 Altogether, Fast4DReg provides a quick and easy-to-use method to correct 3D imaging data before further visualization and analysis.
 
-# Fast4DReg_training
+# Fast4DReg training
 
 Drift correction for 3D fluorescence time-lapse data
 
 During this workshop you will learn about how Fast4DReg works, where to get it and practise it’s usage using example data in the hands-one excercises. It is also possible to work on your own data.
+
+Training datasets can be downloaded here: https://zenodo.org/record/8347798
 
 # Fast4DReg installation
 
